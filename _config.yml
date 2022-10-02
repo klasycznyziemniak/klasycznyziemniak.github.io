@@ -20,7 +20,7 @@ description: "Klasyczny ziemniak - Trochę IT i innych rzeczy." # This will show
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:

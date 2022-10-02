@@ -1,5 +1,6 @@
-Here you can say lots of fun things about your site.
+Zwyczajny geek IT, developer, psi tata.
 
-Maybe say a some things about yourself.
+Piszę o pierdołach, związanych z IT, mając nadzieję, że kiedyś ktoś je przeczyta.
+Jeśli cokolwiek, na tej stronie Ci pomogło, daj znać - będzie mi cieplej na serduszku :) 
 
-Or maybe what you plan to blog about.
+Papa! I miłego czytanka!
